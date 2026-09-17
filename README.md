@@ -57,16 +57,15 @@ I graduated from **BMS College of Engineering** (Information Science & Engineeri
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Decentralized E-Voting Platform**](./case-studies/decentralized-e-voting.md) | Tamper-proof voting with Aadhaar OTP + face-recognition MFA, votes recorded as Ethereum smart contracts. **Published research.** | React · Flask · Solidity · Ethereum · MySQL |
-| [**Audio DeepFake Detection**](./case-studies/audio-deepfake-detection.md) | Classifies real vs. synthetic audio using MFCC/FFT/STFT features and an XGBoost + LightGBM ensemble. | Scikit-learn · XGBoost · LightGBM · FastAPI |
-| [**NeuralArtX**](./case-studies/neuralartx.md) | Full-stack art e-commerce platform with real-time auth, cart, and a 3NF-normalised schema. | Node.js · React · MySQL |
-| [**Cloud E-Commerce Mobile App**](./case-studies/ecommerce-mobile-app.md) | Android app with a Node/Django backend and Firebase Realtime DB for live inventory/orders. | Kotlin · Firebase · Node.js · MySQL |
-| [**MERN Attendance Tracker**](./case-studies/attendance-tracker.md) | Secure attendance system with JWT auth, deployed on Netlify. | React · Express · MongoDB |
-| [**Penguin Species Classifier**](./case-studies/penguin-classifier.md) | Decision-tree model predicting species from morphological features, served via Gradio. | Pandas · Scikit-learn · Gradio |
-| [**Letter Formatter & PDF Converter**](./case-studies/letter-formatter-pdf.md) | Desktop GUI tool that formats and exports documents to PDF. | Python · Tkinter · FPDF · Pillow |
+| [**Decentralized E-Voting Platform**](https://github.com/kanikaaradhya/decentralized-e-voting) | Tamper-proof voting with Aadhaar OTP + face-recognition MFA, votes recorded as Ethereum smart contracts. **Published research.** | React · Flask · Solidity · Ethereum · MySQL |
+| [**Audio DeepFake Detection**](https://github.com/kanikaaradhya/audio-deepfake-detection) | Classifies real vs. synthetic audio using MFCC/FFT/STFT features and an XGBoost + LightGBM ensemble. | Scikit-learn · XGBoost · LightGBM · FastAPI |
+| [**NeuralArtX**](https://github.com/kanikaaradhya/neuralartx) | Full-stack art e-commerce platform with real-time auth, cart, and a 3NF-normalised schema. | Node.js · React · MySQL |
+| [**Cloud E-Commerce Mobile App**](https://github.com/kanikaaradhya/ecommerce-mobile-app) | Android app with a Node/Django backend and Firebase Realtime DB for live inventory/orders. | Kotlin · Firebase · Node.js · MySQL |
+| [**MERN Attendance Tracker**](https://github.com/kanikaaradhya/attendance-tracker) | Secure attendance system with JWT auth, deployed on Netlify. | React · Express · MongoDB |
+| [**Penguin Species Classifier**](https://github.com/kanikaaradhya/penguin-classifier) | Decision-tree model predicting species from morphological features, served via Gradio. | Pandas · Scikit-learn · Gradio |
+| [**Letter Formatter & PDF Converter**](https://github.com/kanikaaradhya/letter-formatter-pdf) | Desktop GUI tool that formats and exports documents to PDF. | Python · Tkinter · FPDF · Pillow |
 
 ---
-
 ### Beyond Code
 
 - IEEE Member

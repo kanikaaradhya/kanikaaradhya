@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kanika 👋</h1>
-<h3 align="center">Software Engineer — Embedded Systems, C++, and Full-Stack Development</h3>
+<h3 align="center">Software Engineer — Full-Stack Development and Embedded Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Embedded+Linux+%7C+C%2B%2B+%7C+GStreamer;FastAPI+%7C+React+%7C+Docker;Building+systems+that+run+on+real+hardware" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### About Me
 
-I'm a Software Developer at **Sixth Energy Technologies**, working across embedded Linux/C++ systems and full-stack web development. My day-to-day spans real-time video pipelines on ARM SoCs, backend APIs, and the DevOps tooling that ships them.
+I'm a Software Developer at **Sixth Energy Technologies**, working across full-stack web development and embedded Linux/C++ systems. My day-to-day spans real-time video pipelines on ARM SoCs, backend APIs, and the DevOps tooling that ships them.
 
 I graduated from **BMS College of Engineering** (Information Science & Engineering, CGPA 8.6/10) and co-authored a published paper on blockchain-based e-voting systems.
 

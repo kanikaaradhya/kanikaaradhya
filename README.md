@@ -13,10 +13,10 @@ I'm a Software Developer at **Sixth Energy Technologies**, working across full-s
 
 I graduated from **BMS College of Engineering** (Information Science & Engineering, CGPA 8.6/10) and co-authored a published paper on blockchain-based e-voting systems.
 
-- 🔭 Currently building production embedded systems (GStreamer/ONVIF/RTSP) at Sixth Energy
+- 🔭 Drawn to hard engineering problems whether they live on an ARM board or behind an API
 - 🌱 Learning: deeper GPU/hardware-acceleration work (DeepStream, VAAPI)
 - 📝 Published research: *"A Decentralized Architecture for Transparent E-Voting Using Blockchain and MFA"* — IRJMETS, Vol. 07, Issue 04, April 2025
-- 💬 Ask me about: GStreamer pipelines, embedded Linux, FastAPI, or resume/interview prep (I've done a *lot* of it recently)
+- 💬 Happy to chat about: system design trade-offs, shipping ML beyond a notebook, or navigating the embedded and full-stack career split as a new grad
 - 📫 Reach me: kanikasuresh13@gmail.com
 
 ---
@@ -51,6 +51,15 @@ I graduated from **BMS College of Engineering** (Information Science & Engineeri
 
 ---
 
+### What I'm building at Sixth Energy Technologies
+
+- **HydraVision (16-camera NVR system)** — C++ on ARM embedded Linux, using a dual-pipeline GStreamer architecture to handle simultaneous live viewing and recording, with a Qt/QML client and MySQL-backed event logging
+- **Multi-vendor surveillance integration** — a vendor-agnostic layer unifying Dahua, CP Plus, and Hikvision cameras over ONVIF for live streaming and event handling (motion, tamper, video loss)
+- **Wireless connectivity layer for embedded devices** — a unified Wi-Fi AP/STA and Bluetooth stack built on hostapd and wpa_supplicant, handling DHCP, routing, and NAT so devices get network access without manual configuration
+- **Yocto Build Burn Helper** — a Python/FastAPI deployment tool that pulls Yocto build artifacts over SSH/SFTP, automates flashing to SD/USB, and streams logs in real time; wired into CI/CD with pytest and Gitea Actions
+- Earlier, as an intern, built IoT data-ingestion pipelines and monitoring dashboards on the ScaleData platform
+
+---
 ### Featured Projects
 
 > These repositories are detailed technical write-ups (architecture, decisions, trade-offs) rather than runnable source — see the note in each one for context.

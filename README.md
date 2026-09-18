@@ -51,7 +51,7 @@ I graduated from **BMS College of Engineering** (Information Science & Engineeri
 
 ---
 
-### What I'm building at Sixth Energy Technologies
+### What I've built at Sixth Energy Technologies
 
 - **HydraVision (16-camera NVR system)** — C++ on ARM embedded Linux, using a dual-pipeline GStreamer architecture to handle simultaneous live viewing and recording, with a Qt/QML client and MySQL-backed event logging
 - **Multi-vendor surveillance integration** — a vendor-agnostic layer unifying Dahua, CP Plus, and Hikvision cameras over ONVIF for live streaming and event handling (motion, tamper, video loss)
